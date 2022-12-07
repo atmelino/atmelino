@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atmelino
 - 👀 I’m interested in anything technology, hardware, software, Math and Physics, Aerospace Engineering
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on cncjs
 - 📫 How to reach me ...
 
 <!---
